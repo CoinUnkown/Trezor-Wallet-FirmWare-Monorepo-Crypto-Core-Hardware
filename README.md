@@ -1,0 +1,1 @@
+# Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware
