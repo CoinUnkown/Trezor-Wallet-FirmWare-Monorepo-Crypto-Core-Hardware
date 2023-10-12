@@ -1,0 +1,30 @@
+[
+  {
+    "url_base": "",
+    "url": "hardware-wallets/firmware/releases.json"
+  },
+  {
+    "url_base": "https://wallet.trezor.io",
+    "url": "data/firmware/1/releases.json",
+    "official": true,
+    "device": "trezor",
+    "model": "1",
+    "testnetSupport": true
+  },
+  {
+    "url_base": "https://wallet.trezor.io",
+    "url": "data/firmware/2/releases.json",
+    "official": true,
+    "device": "trezor",
+    "model": "T",
+    "testnetSupport": true
+  },
+  {
+    "url_base": "https://static.shapeshift.com/firmware",
+    "url": "releases.json",
+    "official": true,
+    "device": "keepkey",
+    "model": "keepkey",
+    "testnetSupport": false
+  }
+]
